@@ -15,7 +15,7 @@ websocket clients via several avialable from external internet ports.
 It is supposed that the clients select port by random and use random instance
 of slavesrv.
 
-The pinger.js check that the server actually works and not frozen, and if it doesn't
+The pinger.js check that the server actually works and is not frozen, and if it doesn't
 it restrts the server.
 
 Running

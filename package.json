@@ -1,0 +1,10 @@
+{
+    "name": "tickersrv",
+    "dependencies": {
+        "goxstream": "a-rodin/goxstream",
+        "pubnub": "*",
+        "socket.io": "~1.0",
+        "socket.io-client": "~1.0",
+        "colors": "*"
+    }
+}
